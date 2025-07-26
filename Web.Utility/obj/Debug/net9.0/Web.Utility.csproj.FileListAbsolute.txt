@@ -1,0 +1,12 @@
+C:\Playground\C# Tutorial\Project\Web\Web.Utility\bin\Debug\net9.0\Web.Utility.deps.json
+C:\Playground\C# Tutorial\Project\Web\Web.Utility\bin\Debug\net9.0\Web.Utility.dll
+C:\Playground\C# Tutorial\Project\Web\Web.Utility\bin\Debug\net9.0\Web.Utility.pdb
+C:\Playground\C# Tutorial\Project\Web\Web.Utility\obj\Debug\net9.0\Web.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Playground\C# Tutorial\Project\Web\Web.Utility\obj\Debug\net9.0\Web.Utility.AssemblyInfoInputs.cache
+C:\Playground\C# Tutorial\Project\Web\Web.Utility\obj\Debug\net9.0\Web.Utility.AssemblyInfo.cs
+C:\Playground\C# Tutorial\Project\Web\Web.Utility\obj\Debug\net9.0\Web.Utility.csproj.CoreCompileInputs.cache
+C:\Playground\C# Tutorial\Project\Web\Web.Utility\obj\Debug\net9.0\Web.Utility.sourcelink.json
+C:\Playground\C# Tutorial\Project\Web\Web.Utility\obj\Debug\net9.0\Web.Utility.dll
+C:\Playground\C# Tutorial\Project\Web\Web.Utility\obj\Debug\net9.0\refint\Web.Utility.dll
+C:\Playground\C# Tutorial\Project\Web\Web.Utility\obj\Debug\net9.0\Web.Utility.pdb
+C:\Playground\C# Tutorial\Project\Web\Web.Utility\obj\Debug\net9.0\ref\Web.Utility.dll
